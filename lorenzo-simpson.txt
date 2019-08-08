@@ -1,1 +1,2 @@
 Hi, my name is Lorenzo!
+Here is some text. I am learning to use the git workflow. 
