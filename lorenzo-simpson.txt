@@ -1,5 +1,0 @@
-Hi, my name is Lorenzo!
-Here is some text. I am learning to use the git workflow. 
-
-
-I was struggling at first because I created a repo in a very large folder. This was giving me lots of untracked files. 
